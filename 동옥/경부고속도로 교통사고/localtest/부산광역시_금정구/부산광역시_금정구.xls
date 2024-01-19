@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022011200100025</td>
+					<td>2022년  1월 12일 06시</td>
+					<td>수요일</td>
+					<td>부산광역시 금정구 선동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>76세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022013000100171</td>
+					<td>2022년  1월 30일 15시</td>
+					<td>일요일</td>
+					<td>부산광역시 금정구 선동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021900100025</td>
+					<td>2022년  2월 19일 04시</td>
+					<td>토요일</td>
+					<td>부산광역시 금정구 두구동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>부상신고</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022022600100497</td>
+					<td>2022년  2월 26일 23시</td>
+					<td>토요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>기타</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022040800100220</td>
+					<td>2022년  4월  8일 12시</td>
+					<td>금요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042000100191</td>
+					<td>2022년  4월 20일 10시</td>
+					<td>수요일</td>
+					<td>부산광역시 금정구 선동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022050900100234</td>
+					<td>2022년  5월  9일 12시</td>
+					<td>월요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022060800100465</td>
+					<td>2022년  6월  8일 19시</td>
+					<td>수요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022061400100146</td>
+					<td>2022년  6월 14일 09시</td>
+					<td>화요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 측면충돌</td>
+					<td>신호위반</td>
+					<td> 젖음/습기</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022080700100203</td>
+					<td>2022년  8월  7일 15시</td>
+					<td>일요일</td>
+					<td>부산광역시 금정구 두구동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022081100100331</td>
+					<td>2022년  8월 11일 17시</td>
+					<td>목요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>20세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022101800100603</td>
+					<td>2022년 10월 18일 20시</td>
+					<td>화요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112300100323</td>
+					<td>2022년 11월 23일 16시</td>
+					<td>수요일</td>
+					<td>부산광역시 금정구 두구동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>76세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022121600100245</td>
+					<td>2022년 12월 16일 13시</td>
+					<td>금요일</td>
+					<td>부산광역시 금정구 노포동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
