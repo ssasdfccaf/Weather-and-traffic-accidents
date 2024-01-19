@@ -1,0 +1,3838 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018010100100085</td>
+					<td>2018년  1월  1일 04시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018010100100221</td>
+					<td>2018년  1월  1일 13시</td>
+					<td>월요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018010500100449</td>
+					<td>2018년  1월  5일 20시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018011900100192</td>
+					<td>2018년  1월 19일 11시</td>
+					<td>금요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018020900100126</td>
+					<td>2018년  2월  9일 08시</td>
+					<td>금요일</td>
+					<td>울산광역시 울주군 서생면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 서리/결빙</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018021100100197</td>
+					<td>2018년  2월 11일 13시</td>
+					<td>일요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018021100100204</td>
+					<td>2018년  2월 11일 13시</td>
+					<td>일요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018021700100016</td>
+					<td>2018년  2월 17일 01시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018022000100472</td>
+					<td>2018년  2월 20일 22시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018022200100064</td>
+					<td>2018년  2월 22일 05시</td>
+					<td>목요일</td>
+					<td>울산광역시 울주군 온양읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018041600100221</td>
+					<td>2018년  4월 16일 11시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018043000100221</td>
+					<td>2018년  4월 30일 11시</td>
+					<td>월요일</td>
+					<td>강원도 동해시 지흥동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018051700100291</td>
+					<td>2018년  5월 17일 14시</td>
+					<td>목요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>흐림</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018052200100147</td>
+					<td>2018년  5월 22일 09시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018052900100043</td>
+					<td>2018년  5월 29일 06시</td>
+					<td>화요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018060800100300</td>
+					<td>2018년  6월  8일 13시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018062100100482</td>
+					<td>2018년  6월 21일 18시</td>
+					<td>목요일</td>
+					<td>강원도 강릉시 구정면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018070500100587</td>
+					<td>2018년  7월  5일 22시</td>
+					<td>목요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>흐림</td>
+					<td>단일로 - 터널</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018071400100623</td>
+					<td>2018년  7월 14일 22시</td>
+					<td>토요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 교량</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018071700100424</td>
+					<td>2018년  7월 17일 16시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 철마면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018080200100361</td>
+					<td>2018년  8월  2일 15시</td>
+					<td>목요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018080700100510</td>
+					<td>2018년  8월  7일 20시</td>
+					<td>화요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>4</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>사망</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018080700100511</td>
+					<td>2018년  8월  7일 20시</td>
+					<td>화요일</td>
+					<td>강원도 양양군 양양읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018080800100384</td>
+					<td>2018년  8월  8일 17시</td>
+					<td>수요일</td>
+					<td>강원도 동해시 망상동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018082900100094</td>
+					<td>2018년  8월 29일 08시</td>
+					<td>수요일</td>
+					<td>부산광역시 해운대구 송정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018091400100510</td>
+					<td>2018년  9월 14일 18시</td>
+					<td>금요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018092000100209</td>
+					<td>2018년  9월 20일 10시</td>
+					<td>목요일</td>
+					<td>강원도 강릉시 구정면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 터널</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018092100100354</td>
+					<td>2018년  9월 21일 13시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018092100100662</td>
+					<td>2018년  9월 21일 19시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018092400100197</td>
+					<td>2018년  9월 24일 14시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>11</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018100200100157</td>
+					<td>2018년 10월  2일 09시</td>
+					<td>화요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018101500100275</td>
+					<td>2018년 10월 15일 14시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018101700100261</td>
+					<td>2018년 10월 17일 13시</td>
+					<td>수요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>사망</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018110900100592</td>
+					<td>2018년 11월  9일 19시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018111400100430</td>
+					<td>2018년 11월 14일 17시</td>
+					<td>수요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018112400100604</td>
+					<td>2018년 11월 24일 20시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018120500100401</td>
+					<td>2018년 12월  5일 17시</td>
+					<td>수요일</td>
+					<td>강원도 강릉시 구정면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018120800100392</td>
+					<td>2018년 12월  8일 17시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018121000100535</td>
+					<td>2018년 12월 10일 20시</td>
+					<td>월요일</td>
+					<td>부산광역시 해운대구 송정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>18세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018121200100416</td>
+					<td>2018년 12월 12일 17시</td>
+					<td>수요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2018122700100263</td>
+					<td>2018년 12월 27일 13시</td>
+					<td>목요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 교량</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>20세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019010100100106</td>
+					<td>2019년  1월  1일 08시</td>
+					<td>화요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019010100100131</td>
+					<td>2019년  1월  1일 10시</td>
+					<td>화요일</td>
+					<td>강원도 강릉시 구정면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019010600100071</td>
+					<td>2019년  1월  6일 06시</td>
+					<td>일요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019010800100306</td>
+					<td>2019년  1월  8일 15시</td>
+					<td>화요일</td>
+					<td>경상북도 경주시 양북면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019013100100280</td>
+					<td>2019년  1월 31일 13시</td>
+					<td>목요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019020400100171</td>
+					<td>2019년  2월  4일 13시</td>
+					<td>월요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>10</td>
+					<td>2</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019030200100126</td>
+					<td>2019년  3월  2일 10시</td>
+					<td>토요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019031200100387</td>
+					<td>2019년  3월 12일 17시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019032000100104</td>
+					<td>2019년  3월 20일 07시</td>
+					<td>수요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019032700100195</td>
+					<td>2019년  3월 27일 10시</td>
+					<td>수요일</td>
+					<td>울산광역시 울주군 언양읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019040200100371</td>
+					<td>2019년  4월  2일 14시</td>
+					<td>화요일</td>
+					<td>강원도 강릉시 구정면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019042600100277</td>
+					<td>2019년  4월 26일 12시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>중앙선침범</td>
+					<td> 젖음/습기</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019050400100368</td>
+					<td>2019년  5월  4일 14시</td>
+					<td>토요일</td>
+					<td>강원도 속초시 노학동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019051800100300</td>
+					<td>2019년  5월 18일 12시</td>
+					<td>토요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019060300100041</td>
+					<td>2019년  6월  3일 00시</td>
+					<td>월요일</td>
+					<td>강원도 동해시 지흥동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019061400100676</td>
+					<td>2019년  6월 14일 22시</td>
+					<td>금요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019070200100259</td>
+					<td>2019년  7월  2일 12시</td>
+					<td>화요일</td>
+					<td>울산광역시 울주군 온양읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019070600100106</td>
+					<td>2019년  7월  6일 05시</td>
+					<td>토요일</td>
+					<td>부산광역시 해운대구 송정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019070900100286</td>
+					<td>2019년  7월  9일 12시</td>
+					<td>화요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019072200100281</td>
+					<td>2019년  7월 22일 12시</td>
+					<td>월요일</td>
+					<td>강원도 동해시 귀운동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 교량</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019072500100127</td>
+					<td>2019년  7월 25일 08시</td>
+					<td>목요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019072700100258</td>
+					<td>2019년  7월 27일 11시</td>
+					<td>토요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019072800100085</td>
+					<td>2019년  7월 28일 06시</td>
+					<td>일요일</td>
+					<td>울산광역시 울주군 온양읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019080300100041</td>
+					<td>2019년  8월  3일 01시</td>
+					<td>토요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019080400100271</td>
+					<td>2019년  8월  4일 14시</td>
+					<td>일요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019081300100236</td>
+					<td>2019년  8월 13일 11시</td>
+					<td>화요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 터널</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019081400100034</td>
+					<td>2019년  8월 14일 00시</td>
+					<td>수요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019081500100122</td>
+					<td>2019년  8월 15일 09시</td>
+					<td>목요일</td>
+					<td>경상북도 포항시 남구 오천읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019081800100178</td>
+					<td>2019년  8월 18일 12시</td>
+					<td>일요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>68세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019090100100321</td>
+					<td>2019년  9월  1일 16시</td>
+					<td>일요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019092000100340</td>
+					<td>2019년  9월 20일 13시</td>
+					<td>금요일</td>
+					<td>강원도 양양군 현북면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019092700100302</td>
+					<td>2019년  9월 27일 12시</td>
+					<td>금요일</td>
+					<td>울산광역시 울주군 서생면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019100100100303</td>
+					<td>2019년 10월  1일 13시</td>
+					<td>화요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019100200100426</td>
+					<td>2019년 10월  2일 15시</td>
+					<td>수요일</td>
+					<td>강원도 동해시 천곡동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019100900100254</td>
+					<td>2019년 10월  9일 12시</td>
+					<td>수요일</td>
+					<td>부산광역시 금정구 두구동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019101300100431</td>
+					<td>2019년 10월 13일 19시</td>
+					<td>일요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019101500100187</td>
+					<td>2019년 10월 15일 09시</td>
+					<td>화요일</td>
+					<td>강원도 속초시 노학동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019101700100099</td>
+					<td>2019년 10월 17일 07시</td>
+					<td>목요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019102500100594</td>
+					<td>2019년 10월 25일 18시</td>
+					<td>금요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>4</td>
+					<td>2</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019111100100287</td>
+					<td>2019년 11월 11일 11시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>2</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019111600100334</td>
+					<td>2019년 11월 16일 13시</td>
+					<td>토요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019111700100057</td>
+					<td>2019년 11월 17일 01시</td>
+					<td>일요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019111800100263</td>
+					<td>2019년 11월 18일 11시</td>
+					<td>월요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019112100100129</td>
+					<td>2019년 11월 21일 08시</td>
+					<td>목요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019121300100777</td>
+					<td>2019년 12월 13일 23시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019121700100464</td>
+					<td>2019년 12월 17일 18시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019122000100362</td>
+					<td>2019년 12월 20일 15시</td>
+					<td>금요일</td>
+					<td>경상북도 경주시 양북면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019122700100193</td>
+					<td>2019년 12월 27일 10시</td>
+					<td>금요일</td>
+					<td>부산광역시 해운대구 좌동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019122800100533</td>
+					<td>2019년 12월 28일 22시</td>
+					<td>토요일</td>
+					<td>울산광역시 울주군 온양읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2019122900100238</td>
+					<td>2019년 12월 29일 16시</td>
+					<td>일요일</td>
+					<td>강원도 강릉시 연곡면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>59세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020010500100248</td>
+					<td>2020년  1월  5일 15시</td>
+					<td>일요일</td>
+					<td>강원도 양양군 서면</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>7</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020010600100267</td>
+					<td>2020년  1월  6일 14시</td>
+					<td>월요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020011200100183</td>
+					<td>2020년  1월 12일 14시</td>
+					<td>일요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020012400100147</td>
+					<td>2020년  1월 24일 11시</td>
+					<td>금요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020013000100215</td>
+					<td>2020년  1월 30일 11시</td>
+					<td>목요일</td>
+					<td>강원도 동해시 지가동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 서리/결빙</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020013000100354</td>
+					<td>2020년  1월 30일 15시</td>
+					<td>목요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 적설</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020020600100628</td>
+					<td>2020년  2월  6일 23시</td>
+					<td>목요일</td>
+					<td>경상북도 경주시 양북면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>주차장 - 주차장</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>사망</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020022000100059</td>
+					<td>2020년  2월 20일 06시</td>
+					<td>목요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>사망</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020022200100246</td>
+					<td>2020년  2월 22일 13시</td>
+					<td>토요일</td>
+					<td>강원도 동해시 천곡동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020030100100128</td>
+					<td>2020년  3월  1일 14시</td>
+					<td>일요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020032700100195</td>
+					<td>2020년  3월 27일 12시</td>
+					<td>금요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020041400100144</td>
+					<td>2020년  4월 14일 10시</td>
+					<td>화요일</td>
+					<td>경상북도 경주시 외동읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020041800100107</td>
+					<td>2020년  4월 18일 08시</td>
+					<td>토요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>과속</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 교량</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020041800100493</td>
+					<td>2020년  4월 18일 21시</td>
+					<td>토요일</td>
+					<td>경상북도 경주시 외동읍</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020042500100434</td>
+					<td>2020년  4월 25일 18시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020060700100023</td>
+					<td>2020년  6월  7일 01시</td>
+					<td>일요일</td>
+					<td>강원도 강릉시 강동면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020061100100524</td>
+					<td>2020년  6월 11일 19시</td>
+					<td>목요일</td>
+					<td>강원도 양양군 현북면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>기타</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020062000100196</td>
+					<td>2020년  6월 20일 11시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020062800100189</td>
+					<td>2020년  6월 28일 12시</td>
+					<td>일요일</td>
+					<td>강원도 동해시 지흥동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020070600100539</td>
+					<td>2020년  7월  6일 21시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 연곡면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>중앙선침범</td>
+					<td> 건조</td>
+					<td>기타</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>사망</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020071000100597</td>
+					<td>2020년  7월 10일 21시</td>
+					<td>금요일</td>
+					<td>강원도 강릉시 성산면</td>
+				
+					<td>사망사고</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020072700100165</td>
+					<td>2020년  7월 27일 10시</td>
+					<td>월요일</td>
+					<td>경상북도 경주시 외동읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020073100100164</td>
+					<td>2020년  7월 31일 11시</td>
+					<td>금요일</td>
+					<td>경상북도 경주시 외동읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>중앙선침범</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020080700100253</td>
+					<td>2020년  8월  7일 13시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020080800100063</td>
+					<td>2020년  8월  8일 04시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020081300100108</td>
+					<td>2020년  8월 13일 09시</td>
+					<td>목요일</td>
+					<td>부산광역시 기장군 장안읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020081400100169</td>
+					<td>2020년  8월 14일 10시</td>
+					<td>금요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020082600100362</td>
+					<td>2020년  8월 26일 17시</td>
+					<td>수요일</td>
+					<td>울산광역시 울주군 범서읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>18세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020082900100234</td>
+					<td>2020년  8월 29일 12시</td>
+					<td>토요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020093000100031</td>
+					<td>2020년  9월 30일 01시</td>
+					<td>수요일</td>
+					<td>강원도 양양군 현남면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020101600100458</td>
+					<td>2020년 10월 16일 18시</td>
+					<td>금요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020110500100396</td>
+					<td>2020년 11월  5일 17시</td>
+					<td>목요일</td>
+					<td>부산광역시 기장군 일광면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020110700100356</td>
+					<td>2020년 11월  7일 15시</td>
+					<td>토요일</td>
+					<td>부산광역시 기장군 기장읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020111000100057</td>
+					<td>2020년 11월 10일 06시</td>
+					<td>화요일</td>
+					<td>부산광역시 기장군 철마면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020112300100494</td>
+					<td>2020년 11월 23일 18시</td>
+					<td>월요일</td>
+					<td>강원도 강릉시 옥계면</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>51세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020113000100335</td>
+					<td>2020년 11월 30일 15시</td>
+					<td>월요일</td>
+					<td>울산광역시 울주군 범서읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020120300100361</td>
+					<td>2020년 12월  3일 17시</td>
+					<td>목요일</td>
+					<td>울산광역시 울주군 청량읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2020123100100536</td>
+					<td>2020년 12월 31일 21시</td>
+					<td>목요일</td>
+					<td>경상북도 경주시 외동읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>20세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
