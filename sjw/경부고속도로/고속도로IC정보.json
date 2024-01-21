@@ -1,0 +1,3335 @@
+{
+    "count": 416,
+    "list": [
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00001",
+            "icName": "구서IC",
+            "xValue": "129.097620",
+            "yValue": "35.250710"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00003",
+            "icName": "양산IC",
+            "xValue": "129.053314",
+            "yValue": "35.378218"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00004",
+            "icName": "통도사IC",
+            "xValue": "129.097021",
+            "yValue": "35.498747"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00005",
+            "icName": "서울산IC",
+            "xValue": "129.126636",
+            "yValue": "35.553861"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00008",
+            "icName": "경주IC",
+            "xValue": "129.187987",
+            "yValue": "35.806331"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00009",
+            "icName": "건천IC",
+            "xValue": "129.087849",
+            "yValue": "35.843278"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00010",
+            "icName": "영천IC",
+            "xValue": "128.951460",
+            "yValue": "35.922380"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00011",
+            "icName": "경산IC",
+            "xValue": "128.788225",
+            "yValue": "35.878149"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00013",
+            "icName": "북대구IC",
+            "xValue": "128.579858",
+            "yValue": "35.906979"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00016",
+            "icName": "남구미IC",
+            "xValue": "128.370149",
+            "yValue": "36.068138"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00017",
+            "icName": "구미IC",
+            "xValue": "128.362376",
+            "yValue": "36.107744"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00019",
+            "icName": "김천IC",
+            "xValue": "128.094609",
+            "yValue": "36.133790"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00020",
+            "icName": "추풍령IC",
+            "xValue": "128.001690",
+            "yValue": "36.200379"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00021",
+            "icName": "황간IC",
+            "xValue": "127.908085",
+            "yValue": "36.220617"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00022",
+            "icName": "영동IC",
+            "xValue": "127.834783",
+            "yValue": "36.270274"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00023",
+            "icName": "금강IC",
+            "xValue": "127.673348",
+            "yValue": "36.279278"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00024",
+            "icName": "옥천IC",
+            "xValue": "127.559532",
+            "yValue": "36.317789"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00026",
+            "icName": "대전IC",
+            "xValue": "127.452377",
+            "yValue": "36.364235"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00028",
+            "icName": "신탄진IC",
+            "xValue": "127.420961",
+            "yValue": "36.440800"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00029",
+            "icName": "남청주IC",
+            "xValue": "127.432157",
+            "yValue": "36.534315"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00031",
+            "icName": "청주IC",
+            "xValue": "127.385014",
+            "yValue": "36.626784"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00032",
+            "icName": "목천IC",
+            "xValue": "127.219247",
+            "yValue": "36.758790"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00034",
+            "icName": "천안IC",
+            "xValue": "127.171309",
+            "yValue": "36.826284"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00035",
+            "icName": "안성IC",
+            "xValue": "127.156069",
+            "yValue": "36.994219"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00037",
+            "icName": "오산IC",
+            "xValue": "127.086371",
+            "yValue": "37.142691"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00038",
+            "icName": "기흥IC",
+            "xValue": "127.102657",
+            "yValue": "37.223075"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00039",
+            "icName": "수원신갈IC",
+            "xValue": "127.105614",
+            "yValue": "37.266266"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00043",
+            "icName": "대왕판교IC",
+            "xValue": "127.091972",
+            "yValue": "37.409462"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00045",
+            "icName": "양재IC",
+            "xValue": "127.042014",
+            "yValue": "37.463229"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00049",
+            "icName": "왜관IC",
+            "xValue": "128.434690",
+            "yValue": "35.977351"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00053",
+            "icName": "영천IC",
+            "xValue": "128.950876",
+            "yValue": "35.920798"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00054",
+            "icName": "판교IC",
+            "xValue": "127.101818",
+            "yValue": "37.397562"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00057",
+            "icName": "노포IC",
+            "xValue": "129.100720",
+            "yValue": "35.285107"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00058",
+            "icName": "김천IC",
+            "xValue": "128.094530",
+            "yValue": "36.135315"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00059",
+            "icName": "추풍령IC",
+            "xValue": "128.004895",
+            "yValue": "36.199818"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00063",
+            "icName": "칠곡물류IC",
+            "xValue": "128.457305",
+            "yValue": "35.956801"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00066",
+            "icName": "기흥동탄IC",
+            "xValue": "127.099472",
+            "yValue": "37.216953"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00089",
+            "icName": "동김천IC",
+            "xValue": "128.177560",
+            "yValue": "36.134976"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I00092",
+            "icName": "북천안IC",
+            "xValue": "127.191351",
+            "yValue": "36.897397"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90050",
+            "icName": "남사진위IC",
+            "xValue": "127.116617",
+            "yValue": "37.106594"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90051",
+            "icName": "북구미IC",
+            "xValue": "128.302709",
+            "yValue": "36.143558"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90052",
+            "icName": "구서IC",
+            "xValue": "129.099172",
+            "yValue": "35.250426"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90055",
+            "icName": "옥산하이패스IC",
+            "xValue": "127.372626",
+            "yValue": "36.656813"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90057",
+            "icName": "활천 나들목IC",
+            "xValue": "129.192602",
+            "yValue": "35.712424"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010I90058",
+            "icName": "활천IC",
+            "xValue": "129.190180",
+            "yValue": "35.711867"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00002",
+            "icName": "양산JCT",
+            "xValue": "129.043523",
+            "yValue": "35.331863"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00006",
+            "icName": "언양JCT",
+            "xValue": "129.130010",
+            "yValue": "35.566669"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00025",
+            "icName": "비룡JCT",
+            "xValue": "127.481770",
+            "yValue": "36.346318"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00027",
+            "icName": "회덕JCT",
+            "xValue": "127.421007",
+            "yValue": "36.405272"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00030",
+            "icName": "남이JCT",
+            "xValue": "127.422204",
+            "yValue": "36.598011"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00033",
+            "icName": "천안JCT",
+            "xValue": "127.182262",
+            "yValue": "36.769703"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00036",
+            "icName": "안성JCT",
+            "xValue": "127.140366",
+            "yValue": "37.038514"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00040",
+            "icName": "신갈JCT",
+            "xValue": "127.104780",
+            "yValue": "37.291807"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J00042",
+            "icName": "판교JCT",
+            "xValue": "127.094529",
+            "yValue": "37.405870"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J90053",
+            "icName": "금토JCT",
+            "xValue": "127.085428",
+            "yValue": "37.415470"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J90054",
+            "icName": "언양 분기점JCT",
+            "xValue": "129.131398",
+            "yValue": "35.567444"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J90056",
+            "icName": "영천JCT",
+            "xValue": "129.006724",
+            "yValue": "35.920645"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "0010J90059",
+            "icName": "동대구JCT",
+            "xValue": "128.694347",
+            "yValue": "35.887474"
+        },
+        {
+            "routeName": "경부선",
+            "routeNo": "0010",
+            "icCode": "4000J00001",
+            "icName": "동탄JCT",
+            "xValue": "127.095990",
+            "yValue": "37.177820"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00082",
+            "icName": "서영암IC",
+            "xValue": "126.530841",
+            "yValue": "34.754310"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00083",
+            "icName": "강진무위사IC",
+            "xValue": "126.717300",
+            "yValue": "34.698139"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00084",
+            "icName": "장흥IC",
+            "xValue": "126.906190",
+            "yValue": "34.708190"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00085",
+            "icName": "보성IC",
+            "xValue": "127.107230",
+            "yValue": "34.813939"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00086",
+            "icName": "벌교IC",
+            "xValue": "127.298440",
+            "yValue": "34.834910"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00087",
+            "icName": "순천만IC",
+            "xValue": "127.480890",
+            "yValue": "34.897360"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00088",
+            "icName": "학산IC",
+            "xValue": "126.574528",
+            "yValue": "34.736691"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00090",
+            "icName": "고흥IC",
+            "xValue": "127.342841",
+            "yValue": "34.826999"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I00091",
+            "icName": "도롱IC",
+            "xValue": "127.528668",
+            "yValue": "34.905184"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I90010",
+            "icName": "벌교IC",
+            "xValue": "127.298311",
+            "yValue": "34.833615"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I90011",
+            "icName": "장흥IC",
+            "xValue": "126.907282",
+            "yValue": "34.707695"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I90012",
+            "icName": "보성IC",
+            "xValue": "127.103739",
+            "yValue": "34.813151"
+        },
+        {
+            "routeName": "남해선(영암-순천)",
+            "routeNo": "0101",
+            "icCode": "0101I90013",
+            "icName": "순천만IC",
+            "xValue": "127.481543",
+            "yValue": "34.896622"
+        },
+        {
+            "routeName": "광주대구선",
+            "routeNo": "0120",
+            "icCode": "0120I90001",
+            "icName": "서함양하이패스IC",
+            "xValue": "127.710808",
+            "yValue": "35.544174"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120I00020",
+            "icName": "무안공항IC",
+            "xValue": "126.390487",
+            "yValue": "35.003671"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120I00021",
+            "icName": "북무안IC",
+            "xValue": "126.435812",
+            "yValue": "35.014250"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120I00023",
+            "icName": "나주IC",
+            "xValue": "126.695496",
+            "yValue": "35.103306"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120I00035",
+            "icName": "문평IC",
+            "xValue": "126.597922",
+            "yValue": "35.068208"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120I00036",
+            "icName": "동함평IC",
+            "xValue": "126.545062",
+            "yValue": "35.051868"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0120J00022",
+            "icName": "함평JCT",
+            "xValue": "126.487202",
+            "yValue": "35.031680"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0121I00002",
+            "icName": "운수IC",
+            "xValue": "126.780425",
+            "yValue": "35.159772"
+        },
+        {
+            "routeName": "무안광주선",
+            "routeNo": "0121",
+            "icCode": "0121I00080",
+            "icName": "서광산IC",
+            "xValue": "126.734146",
+            "yValue": "35.118296"
+        },
+        {
+            "routeName": "고창담양선",
+            "routeNo": "0140",
+            "icCode": "0140I90004",
+            "icName": "배내골나들목IC",
+            "xValue": "129.006676",
+            "yValue": "35.527982"
+        },
+        {
+            "routeName": "고창담양선",
+            "routeNo": "0140",
+            "icCode": "0140J90001",
+            "icName": "밀양JCT",
+            "xValue": "128.796403",
+            "yValue": "35.519366"
+        },
+        {
+            "routeName": "고창담양선",
+            "routeNo": "0140",
+            "icCode": "0140J90002",
+            "icName": "울주JCTJCT",
+            "xValue": "129.256762",
+            "yValue": "35.502711"
+        },
+        {
+            "routeName": "고창담양선",
+            "routeNo": "0140",
+            "icCode": "0140J90003",
+            "icName": "서울주JCTJCT",
+            "xValue": "129.112288",
+            "yValue": "35.513324"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00001",
+            "icName": "목포IC",
+            "xValue": "126.425966",
+            "yValue": "34.841913"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00002",
+            "icName": "일로IC",
+            "xValue": "126.481220",
+            "yValue": "34.857949"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00003",
+            "icName": "무안IC",
+            "xValue": "126.492090",
+            "yValue": "35.007680"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00004",
+            "icName": "함평IC",
+            "xValue": "126.481619",
+            "yValue": "35.099150"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00005",
+            "icName": "영광IC",
+            "xValue": "126.557650",
+            "yValue": "35.298940"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00006",
+            "icName": "고창IC",
+            "xValue": "126.664976",
+            "yValue": "35.440911"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00007",
+            "icName": "선운산IC",
+            "xValue": "126.684341",
+            "yValue": "35.508414"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00008",
+            "icName": "줄포IC",
+            "xValue": "126.697816",
+            "yValue": "35.595948"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00009",
+            "icName": "부안IC",
+            "xValue": "126.775052",
+            "yValue": "35.731603"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00010",
+            "icName": "서김제IC",
+            "xValue": "126.840665",
+            "yValue": "35.835575"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00011",
+            "icName": "동군산IC",
+            "xValue": "126.835651",
+            "yValue": "35.947030"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00012",
+            "icName": "군산IC",
+            "xValue": "126.799440",
+            "yValue": "36.009040"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00013",
+            "icName": "서천IC",
+            "xValue": "126.690184",
+            "yValue": "36.099759"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00014",
+            "icName": "춘장대IC",
+            "xValue": "126.601782",
+            "yValue": "36.169227"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00015",
+            "icName": "대천IC",
+            "xValue": "126.576103",
+            "yValue": "36.333293"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00016",
+            "icName": "광천IC",
+            "xValue": "126.586451",
+            "yValue": "36.496876"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00017",
+            "icName": "홍성IC",
+            "xValue": "126.561726",
+            "yValue": "36.592036"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00018",
+            "icName": "해미IC",
+            "xValue": "126.564163",
+            "yValue": "36.713818"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00019",
+            "icName": "서산IC",
+            "xValue": "126.573123",
+            "yValue": "36.808180"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00020",
+            "icName": "당진IC",
+            "xValue": "126.710095",
+            "yValue": "36.893758"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00021",
+            "icName": "송악IC",
+            "xValue": "126.777242",
+            "yValue": "36.931971"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00022",
+            "icName": "서평택IC",
+            "xValue": "126.870408",
+            "yValue": "37.000178"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00024",
+            "icName": "발안IC",
+            "xValue": "126.883322",
+            "yValue": "37.124645"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00025",
+            "icName": "비봉IC",
+            "xValue": "126.883347",
+            "yValue": "37.242385"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00026",
+            "icName": "매송IC",
+            "xValue": "126.899805",
+            "yValue": "37.279274"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00030",
+            "icName": "목감IC",
+            "xValue": "126.873127",
+            "yValue": "37.396386"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00032",
+            "icName": "금천IC",
+            "xValue": "126.890704",
+            "yValue": "37.460850"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00034",
+            "icName": "광명역IC",
+            "xValue": "126.881624",
+            "yValue": "37.404257"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I00035",
+            "icName": "무창포IC",
+            "xValue": "126.563063",
+            "yValue": "36.238946"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I90038",
+            "icName": "무안IC",
+            "xValue": "126.492844",
+            "yValue": "35.008496"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I90039",
+            "icName": "불갑산하이패스IC",
+            "xValue": "126.508155",
+            "yValue": "35.240731"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I90040",
+            "icName": "함평IC",
+            "xValue": "126.482258",
+            "yValue": "35.100192"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I90041",
+            "icName": "일로IC",
+            "xValue": "126.481798",
+            "yValue": "34.857687"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150I90042",
+            "icName": "영광IC",
+            "xValue": "126.559810",
+            "yValue": "35.300633"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00023",
+            "icName": "서평택JCT",
+            "xValue": "126.890732",
+            "yValue": "37.054984"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00027",
+            "icName": "팔곡JCT",
+            "xValue": "126.895175",
+            "yValue": "37.309577"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00028",
+            "icName": "안산JCT",
+            "xValue": "126.861870",
+            "yValue": "37.344985"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00029",
+            "icName": "조남JCT",
+            "xValue": "126.870582",
+            "yValue": "37.369791"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00031",
+            "icName": "일직JCT",
+            "xValue": "126.895855",
+            "yValue": "37.421973"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00036",
+            "icName": "당진JCT",
+            "xValue": "126.618520",
+            "yValue": "36.851110"
+        },
+        {
+            "routeName": "서해안선",
+            "routeNo": "0150",
+            "icCode": "0150J00037",
+            "icName": "동서천JCT",
+            "xValue": "126.772490",
+            "yValue": "36.058319"
+        },
+        {
+            "routeName": "울산선",
+            "routeNo": "0160",
+            "icCode": "0010I00007",
+            "icName": "울산IC",
+            "xValue": "129.260330",
+            "yValue": "35.552310"
+        },
+        {
+            "routeName": "울산선",
+            "routeNo": "0160",
+            "icCode": "0160I00130",
+            "icName": "장검IC",
+            "xValue": "129.252337",
+            "yValue": "35.556461"
+        },
+        {
+            "routeName": "울산선",
+            "routeNo": "0160",
+            "icCode": "0160I90005",
+            "icName": "울산IC",
+            "xValue": "129.261213",
+            "yValue": "35.552181"
+        },
+        {
+            "routeName": "울산선",
+            "routeNo": "0160",
+            "icCode": "0160J00001",
+            "icName": "언양JCT",
+            "xValue": "129.134100",
+            "yValue": "35.564650"
+        },
+        {
+            "routeName": "울산선",
+            "routeNo": "0160",
+            "icCode": "0650J00028",
+            "icName": "울산JCT",
+            "xValue": "129.239710",
+            "yValue": "35.561900"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "0170I00014",
+            "icName": "어연IC",
+            "xValue": "126.989983",
+            "yValue": "37.057822"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "0170J00015",
+            "icName": "서오산JCT",
+            "xValue": "126.999990",
+            "yValue": "37.176902"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "1200I00007",
+            "icName": "정남IC",
+            "xValue": "126.972172",
+            "yValue": "37.184785"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "4110I00001",
+            "icName": "향남IC",
+            "xValue": "127.002153",
+            "yValue": "37.129666"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "4110I00002",
+            "icName": "봉담IC",
+            "xValue": "126.957968",
+            "yValue": "37.229025"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "4110I00003",
+            "icName": "오성IC",
+            "xValue": "126.987115",
+            "yValue": "37.016436"
+        },
+        {
+            "routeName": "오산화성선",
+            "routeNo": "0171",
+            "icCode": "4110I00004",
+            "icName": "평택JCT",
+            "xValue": "126.970531",
+            "yValue": "37.033277"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00016",
+            "icName": "죽림ICIC",
+            "xValue": "126.463619",
+            "yValue": "34.843253"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00068",
+            "icName": "동전주IC",
+            "xValue": "127.191059",
+            "yValue": "35.847334"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00069",
+            "icName": "상관IC",
+            "xValue": "127.219857",
+            "yValue": "35.759052"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00071",
+            "icName": "오수IC",
+            "xValue": "127.321861",
+            "yValue": "35.552347"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00072",
+            "icName": "임실IC",
+            "xValue": "127.316656",
+            "yValue": "35.631977"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00074",
+            "icName": "서남원IC",
+            "xValue": "127.339514",
+            "yValue": "35.361444"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00075",
+            "icName": "구례화엄사IC",
+            "xValue": "127.420695",
+            "yValue": "35.250065"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00076",
+            "icName": "황전IC",
+            "xValue": "127.458033",
+            "yValue": "35.146801"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00078",
+            "icName": "동순천IC",
+            "xValue": "127.554626",
+            "yValue": "34.948932"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270I00081",
+            "icName": "북남원IC",
+            "xValue": "127.313825",
+            "yValue": "35.439432"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270J00070",
+            "icName": "완주JCT",
+            "xValue": "127.173058",
+            "yValue": "35.884309"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270J00073",
+            "icName": "남원분기JCT",
+            "xValue": "127.308101",
+            "yValue": "35.407668"
+        },
+        {
+            "routeName": "순천완주선",
+            "routeNo": "0270",
+            "icCode": "0270J00077",
+            "icName": "순천분기JCT",
+            "xValue": "127.539084",
+            "yValue": "34.992674"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00001",
+            "icName": "동상주IC",
+            "xValue": "128.296560",
+            "yValue": "36.375026"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00002",
+            "icName": "서의성IC",
+            "xValue": "128.410897",
+            "yValue": "36.400110"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00003",
+            "icName": "북의성IC",
+            "xValue": "128.686711",
+            "yValue": "36.417669"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00007",
+            "icName": "청송IC",
+            "xValue": "129.026638",
+            "yValue": "36.456075"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00008",
+            "icName": "동청송영양IC",
+            "xValue": "129.123188",
+            "yValue": "36.492909"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I00009",
+            "icName": "영덕IC",
+            "xValue": "129.371255",
+            "yValue": "36.386424"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301I90009",
+            "icName": "동안동IC",
+            "xValue": "128.889329",
+            "yValue": "36.437281"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301J00001",
+            "icName": "상주JCT",
+            "xValue": "128.275147",
+            "yValue": "36.374984"
+        },
+        {
+            "routeName": "당진대전선",
+            "routeNo": "0301",
+            "icCode": "0301J00002",
+            "icName": "안동JCT",
+            "xValue": "128.623547",
+            "yValue": "36.434393"
+        },
+        {
+            "routeName": "제2중부선",
+            "routeNo": "0370",
+            "icCode": "0370I90003",
+            "icName": "신둔(이천) 하이패스IC",
+            "xValue": "127.380747",
+            "yValue": "37.293910"
+        },
+        {
+            "routeName": "제2중부선",
+            "routeNo": "0370",
+            "icCode": "0370J00001",
+            "icName": "마장JCT",
+            "xValue": "127.411239",
+            "yValue": "37.258460"
+        },
+        {
+            "routeName": "제2중부선",
+            "routeNo": "0370",
+            "icCode": "0370J00002",
+            "icName": "산곡JCT",
+            "xValue": "127.243140",
+            "yValue": "37.480550"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00002",
+            "icName": "청북IC",
+            "xValue": "126.919096",
+            "yValue": "37.047407"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00003",
+            "icName": "송탄IC",
+            "xValue": "127.109435",
+            "yValue": "37.035184"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00005",
+            "icName": "서안성IC",
+            "xValue": "127.161887",
+            "yValue": "37.033552"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00008",
+            "icName": "남안성IC",
+            "xValue": "127.246202",
+            "yValue": "36.975677"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00018",
+            "icName": "북진천IC",
+            "xValue": "127.451719",
+            "yValue": "36.946391"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00095",
+            "icName": "금왕꽃동네IC",
+            "xValue": "127.553091",
+            "yValue": "36.955898"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00096",
+            "icName": "음성IC",
+            "xValue": "127.620388",
+            "yValue": "36.989132"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00098",
+            "icName": "서충주IC",
+            "xValue": "127.670975",
+            "yValue": "37.010970"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I00102",
+            "icName": "동충주IC",
+            "xValue": "127.920945",
+            "yValue": "37.063064"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400I90016",
+            "icName": "평택고덕IC",
+            "xValue": "127.035171",
+            "yValue": "37.026835"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00001",
+            "icName": "서평택JCT",
+            "xValue": "126.888570",
+            "yValue": "37.054269"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00004",
+            "icName": "안성JCT",
+            "xValue": "127.138920",
+            "yValue": "37.035979"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00020",
+            "icName": "평택JCT",
+            "xValue": "126.971570",
+            "yValue": "37.031500"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00097",
+            "icName": "대소JCT",
+            "xValue": "127.473780",
+            "yValue": "36.943056"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00100",
+            "icName": "노은JCT",
+            "xValue": "127.804598",
+            "yValue": "37.036108"
+        },
+        {
+            "routeName": "평택제천선",
+            "routeNo": "0400",
+            "icCode": "0400J00102",
+            "icName": "제천JCT",
+            "xValue": "128.173935",
+            "yValue": "37.082353"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0100J00021",
+            "icName": "내서JCT",
+            "xValue": "128.517887",
+            "yValue": "35.258652"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0400J00099",
+            "icName": "충주JCT",
+            "xValue": "127.740369",
+            "yValue": "37.040326"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00003",
+            "icName": "칠서IC",
+            "xValue": "128.506037",
+            "yValue": "35.329457"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00004",
+            "icName": "남지IC",
+            "xValue": "128.483547",
+            "yValue": "35.399817"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00005",
+            "icName": "영산IC",
+            "xValue": "128.513091",
+            "yValue": "35.455208"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00006",
+            "icName": "창녕IC",
+            "xValue": "128.477572",
+            "yValue": "35.544467"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00008",
+            "icName": "선산IC",
+            "xValue": "128.262930",
+            "yValue": "36.240311"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00009",
+            "icName": "상주IC",
+            "xValue": "128.215714",
+            "yValue": "36.422457"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00010",
+            "icName": "충주IC",
+            "xValue": "127.848511",
+            "yValue": "36.980086"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00011",
+            "icName": "북충주IC",
+            "xValue": "127.796956",
+            "yValue": "37.038751"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00012",
+            "icName": "감곡IC",
+            "xValue": "127.670597",
+            "yValue": "37.125898"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00014",
+            "icName": "북상주IC",
+            "xValue": "128.171950",
+            "yValue": "36.530992"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00015",
+            "icName": "점촌함창IC",
+            "xValue": "128.154422",
+            "yValue": "36.584599"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00016",
+            "icName": "문경새재IC",
+            "xValue": "128.112659",
+            "yValue": "36.699033"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00017",
+            "icName": "연풍IC",
+            "xValue": "127.993276",
+            "yValue": "36.760442"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00018",
+            "icName": "괴산IC",
+            "xValue": "127.922955",
+            "yValue": "36.868984"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00024",
+            "icName": "남성주IC",
+            "xValue": "128.325667",
+            "yValue": "35.843467"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00026",
+            "icName": "성주IC",
+            "xValue": "128.250299",
+            "yValue": "35.920815"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00032",
+            "icName": "남김천IC",
+            "xValue": "128.269594",
+            "yValue": "36.058553"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00033",
+            "icName": "서여주IC",
+            "xValue": "127.584096",
+            "yValue": "37.305462"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00034",
+            "icName": "북여주IC",
+            "xValue": "127.528452",
+            "yValue": "37.372785"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00093",
+            "icName": "남여주IC",
+            "xValue": "127.589034",
+            "yValue": "37.253639"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00094",
+            "icName": "양평IC",
+            "xValue": "127.449776",
+            "yValue": "37.521443"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I00108",
+            "icName": "칠원IC",
+            "xValue": "128.514320",
+            "yValue": "35.280663"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I90031",
+            "icName": "충주하이패스IC",
+            "xValue": "127.839742",
+            "yValue": "37.019155"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450I90032",
+            "icName": "남양평IC",
+            "xValue": "127.468327",
+            "yValue": "37.483334"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00001",
+            "icName": "내서JCT",
+            "xValue": "128.515350",
+            "yValue": "35.258870"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00002",
+            "icName": "칠원JCT",
+            "xValue": "128.510490",
+            "yValue": "35.283429"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00013",
+            "icName": "여주JCT",
+            "xValue": "127.591773",
+            "yValue": "37.233362"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00022",
+            "icName": "고령JCT",
+            "xValue": "128.373011",
+            "yValue": "35.759619"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00023",
+            "icName": "김천JCT",
+            "xValue": "128.268615",
+            "yValue": "36.160620"
+        },
+        {
+            "routeName": "중부내륙선",
+            "routeNo": "0450",
+            "icCode": "0450J00025",
+            "icName": "현풍JCT",
+            "xValue": "128.436084",
+            "yValue": "35.677202"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00002",
+            "icName": "월곶JCT",
+            "xValue": "126.752910",
+            "yValue": "37.389325"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00003",
+            "icName": "서안산IC",
+            "xValue": "126.801490",
+            "yValue": "37.351479"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00004",
+            "icName": "안산IC",
+            "xValue": "126.838160",
+            "yValue": "37.348000"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00007",
+            "icName": "군포IC",
+            "xValue": "126.922570",
+            "yValue": "37.326010"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00008",
+            "icName": "동군포IC",
+            "xValue": "126.937490",
+            "yValue": "37.328800"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00009",
+            "icName": "부곡IC",
+            "xValue": "126.960760",
+            "yValue": "37.323769"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00010",
+            "icName": "북수원IC",
+            "xValue": "126.990940",
+            "yValue": "37.318590"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00011",
+            "icName": "동수원IC",
+            "xValue": "127.050240",
+            "yValue": "37.299670"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00013",
+            "icName": "마성IC",
+            "xValue": "127.175468",
+            "yValue": "37.283572"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00014",
+            "icName": "용인IC",
+            "xValue": "127.210854",
+            "yValue": "37.257273"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00015",
+            "icName": "양지IC",
+            "xValue": "127.295604",
+            "yValue": "37.238671"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00016",
+            "icName": "덕평IC",
+            "xValue": "127.365249",
+            "yValue": "37.242153"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00018",
+            "icName": "이천IC",
+            "xValue": "127.497147",
+            "yValue": "37.246055"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00020",
+            "icName": "여주IC",
+            "xValue": "127.654250",
+            "yValue": "37.252144"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00021",
+            "icName": "문막IC",
+            "xValue": "127.827320",
+            "yValue": "37.311143"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00023",
+            "icName": "원주IC",
+            "xValue": "127.950340",
+            "yValue": "37.401755"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00024",
+            "icName": "새말IC",
+            "xValue": "128.068948",
+            "yValue": "37.447493"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00025",
+            "icName": "둔내IC",
+            "xValue": "128.205279",
+            "yValue": "37.492560"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00026",
+            "icName": "면온IC",
+            "xValue": "128.366235",
+            "yValue": "37.562110"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00027",
+            "icName": "평창IC",
+            "xValue": "128.413840",
+            "yValue": "37.590530"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00028",
+            "icName": "속사IC",
+            "xValue": "128.489659",
+            "yValue": "37.630640"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00029",
+            "icName": "진부IC",
+            "xValue": "128.562480",
+            "yValue": "37.652240"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I00030",
+            "icName": "대관령IC",
+            "xValue": "128.695426",
+            "yValue": "37.677862"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90030",
+            "icName": "동둔내(삽교)하이패스IC",
+            "xValue": "128.275050",
+            "yValue": "37.523340"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90032",
+            "icName": "군포IC",
+            "xValue": "126.921429",
+            "yValue": "37.327200"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90033",
+            "icName": "동군포IC",
+            "xValue": "126.937307",
+            "yValue": "37.329713"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90034",
+            "icName": "동수원IC",
+            "xValue": "127.050798",
+            "yValue": "37.300643"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90035",
+            "icName": "둔내IC",
+            "xValue": "128.207676",
+            "yValue": "37.492672"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90036",
+            "icName": "마성IC",
+            "xValue": "127.177364",
+            "yValue": "37.284006"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90037",
+            "icName": "부곡IC",
+            "xValue": "126.961911",
+            "yValue": "37.323856"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90038",
+            "icName": "평창IC",
+            "xValue": "128.414764",
+            "yValue": "37.590173"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90039",
+            "icName": "진부IC",
+            "xValue": "128.563189",
+            "yValue": "37.651623"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90040",
+            "icName": "안산IC",
+            "xValue": "126.840872",
+            "yValue": "37.347386"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90041",
+            "icName": "속사IC",
+            "xValue": "128.490321",
+            "yValue": "37.629962"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90042",
+            "icName": "북수원IC",
+            "xValue": "126.992091",
+            "yValue": "37.318779"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500I90043",
+            "icName": "서안산IC",
+            "xValue": "126.805106",
+            "yValue": "37.351873"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00001",
+            "icName": "서창JCT",
+            "xValue": "126.738400",
+            "yValue": "37.432539"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00005",
+            "icName": "안산JCT",
+            "xValue": "126.860460",
+            "yValue": "37.344040"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00012",
+            "icName": "신갈JCT",
+            "xValue": "127.103680",
+            "yValue": "37.290000"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00017",
+            "icName": "호법JCT",
+            "xValue": "127.426720",
+            "yValue": "37.235810"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00019",
+            "icName": "여주JCT",
+            "xValue": "127.590210",
+            "yValue": "37.232060"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J00031",
+            "icName": "둔대JCT",
+            "xValue": "126.905570",
+            "yValue": "37.323130"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J90031",
+            "icName": "군자JCT",
+            "xValue": "126.769679",
+            "yValue": "37.363517"
+        },
+        {
+            "routeName": "영동선",
+            "routeNo": "0500",
+            "icCode": "0500J90044",
+            "icName": "서창JCT",
+            "xValue": "126.740909",
+            "yValue": "37.434495"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0100J00030",
+            "icName": "대저JCT",
+            "xValue": "128.974280",
+            "yValue": "35.219217"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00002",
+            "icName": "칠곡IC",
+            "xValue": "128.537107",
+            "yValue": "35.936316"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00003",
+            "icName": "다부IC",
+            "xValue": "128.518303",
+            "yValue": "36.047081"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00004",
+            "icName": "가산IC",
+            "xValue": "128.535221",
+            "yValue": "36.097527"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00005",
+            "icName": "군위IC",
+            "xValue": "128.560251",
+            "yValue": "36.198102"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00006",
+            "icName": "의성IC",
+            "xValue": "128.582776",
+            "yValue": "36.291267"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00007",
+            "icName": "남안동IC",
+            "xValue": "128.622803",
+            "yValue": "36.473787"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00008",
+            "icName": "서안동IC",
+            "xValue": "128.629156",
+            "yValue": "36.589568"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00009",
+            "icName": "예천IC",
+            "xValue": "128.543859",
+            "yValue": "36.668000"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00010",
+            "icName": "영주IC",
+            "xValue": "128.572839",
+            "yValue": "36.768053"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00011",
+            "icName": "풍기IC",
+            "xValue": "128.532490",
+            "yValue": "36.853230"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00012",
+            "icName": "단양IC",
+            "xValue": "128.363919",
+            "yValue": "36.916700"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00013",
+            "icName": "북단양IC",
+            "xValue": "128.290003",
+            "yValue": "37.014683"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00014",
+            "icName": "남제천IC",
+            "xValue": "128.184992",
+            "yValue": "37.076022"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00015",
+            "icName": "제천IC",
+            "xValue": "128.142716",
+            "yValue": "37.134873"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00016",
+            "icName": "신림IC",
+            "xValue": "128.089289",
+            "yValue": "37.224818"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00017",
+            "icName": "남원주IC",
+            "xValue": "127.931398",
+            "yValue": "37.325278"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00019",
+            "icName": "북원주IC",
+            "xValue": "127.923124",
+            "yValue": "37.420587"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00020",
+            "icName": "횡성IC",
+            "xValue": "127.969949",
+            "yValue": "37.504963"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00021",
+            "icName": "홍천IC",
+            "xValue": "127.855957",
+            "yValue": "37.677906"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I00022",
+            "icName": "춘천IC",
+            "xValue": "127.766620",
+            "yValue": "37.842300"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I90025",
+            "icName": "횡성IC",
+            "xValue": "127.971366",
+            "yValue": "37.504272"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I90026",
+            "icName": "홍천IC",
+            "xValue": "127.857815",
+            "yValue": "37.678554"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I90027",
+            "icName": "춘천IC",
+            "xValue": "127.768387",
+            "yValue": "37.842355"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550I90028",
+            "icName": "북원주IC",
+            "xValue": "127.923377",
+            "yValue": "37.419109"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550J00018",
+            "icName": "만종JCT",
+            "xValue": "127.905466",
+            "yValue": "37.364098"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "0550J00023",
+            "icName": "대동JCT",
+            "xValue": "128.986032",
+            "yValue": "35.284268"
+        },
+        {
+            "routeName": "중앙선",
+            "routeNo": "0550",
+            "icCode": "4510J00008",
+            "icName": "금호JCT",
+            "xValue": "128.526603",
+            "yValue": "35.894279"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0010J00064",
+            "icName": "춘천JCT",
+            "xValue": "127.790557",
+            "yValue": "37.751733"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00002",
+            "icName": "동홍천IC",
+            "xValue": "127.964457",
+            "yValue": "37.758545"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00003",
+            "icName": "덕소삼패IC",
+            "xValue": "127.214237",
+            "yValue": "37.594811"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00004",
+            "icName": "화도IC",
+            "xValue": "127.312813",
+            "yValue": "37.632498"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00005",
+            "icName": "서종IC",
+            "xValue": "127.370279",
+            "yValue": "37.635152"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00006",
+            "icName": "설악IC",
+            "xValue": "127.496499",
+            "yValue": "37.669807"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00008",
+            "icName": "강촌IC",
+            "xValue": "127.624887",
+            "yValue": "37.733733"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00009",
+            "icName": "남춘천IC",
+            "xValue": "127.727131",
+            "yValue": "37.752069"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00010",
+            "icName": "조양IC",
+            "xValue": "127.780939",
+            "yValue": "37.758587"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00011",
+            "icName": "동홍천IC",
+            "xValue": "127.966788",
+            "yValue": "37.759504"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00012",
+            "icName": "미사IC",
+            "xValue": "127.192074",
+            "yValue": "37.581497"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00013",
+            "icName": "선동IC",
+            "xValue": "127.177507",
+            "yValue": "37.577939"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00014",
+            "icName": "강일IC",
+            "xValue": "127.168218",
+            "yValue": "37.573519"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00015",
+            "icName": "내촌IC",
+            "xValue": "128.141620",
+            "yValue": "37.790065"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00016",
+            "icName": "내촌ICIC",
+            "xValue": "128.140784",
+            "yValue": "37.789438"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00017",
+            "icName": "인제IC",
+            "xValue": "128.287040",
+            "yValue": "37.912710"
+        },
+        {
+            "routeName": "서울양양선",
+            "routeNo": "0600",
+            "icCode": "0600I00018",
+            "icName": "서양양IC",
+            "xValue": "128.534313",
+            "yValue": "37.995704"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00012",
+            "icName": "강릉IC",
+            "xValue": "128.840468",
+            "yValue": "37.750786"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00015",
+            "icName": "남양양IC",
+            "xValue": "128.791440",
+            "yValue": "37.914604"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00016",
+            "icName": "망상IC",
+            "xValue": "129.093628",
+            "yValue": "37.585212"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00017",
+            "icName": "옥계IC",
+            "xValue": "129.038909",
+            "yValue": "37.620422"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00018",
+            "icName": "북강릉IC",
+            "xValue": "128.815614",
+            "yValue": "37.834382"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00019",
+            "icName": "동해IC",
+            "xValue": "129.096938",
+            "yValue": "37.514019"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00020",
+            "icName": "남강릉IC",
+            "xValue": "128.893478",
+            "yValue": "37.694050"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00032",
+            "icName": "하조대IC",
+            "xValue": "128.695966",
+            "yValue": "38.025451"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00033",
+            "icName": "양양IC",
+            "xValue": "128.591905",
+            "yValue": "38.075610"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00125",
+            "icName": "북양양IC",
+            "xValue": "128.587104",
+            "yValue": "38.154438"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00126",
+            "icName": "속초IC",
+            "xValue": "128.524298",
+            "yValue": "38.200602"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00127",
+            "icName": "북양양IC",
+            "xValue": "128.585739",
+            "yValue": "38.154576"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00128",
+            "icName": "속초ICIC",
+            "xValue": "128.524995",
+            "yValue": "38.201906"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00133",
+            "icName": "근덕IC",
+            "xValue": "129.206652",
+            "yValue": "37.391937"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650I00134",
+            "icName": "삼척IC",
+            "xValue": "129.130316",
+            "yValue": "37.451892"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650J00014",
+            "icName": "강릉JCT",
+            "xValue": "128.835659",
+            "yValue": "37.773081"
+        },
+        {
+            "routeName": "동해선(삼척-속초)",
+            "routeNo": "0650",
+            "icCode": "0650J00127",
+            "icName": "양양JCT",
+            "xValue": "128.602558",
+            "yValue": "38.067097"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I00001",
+            "icName": "별내IC",
+            "xValue": "127.117970",
+            "yValue": "37.659375"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90030",
+            "icName": "상일IC",
+            "xValue": "127.180297",
+            "yValue": "37.550273"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90031",
+            "icName": "서하남IC",
+            "xValue": "127.153415",
+            "yValue": "37.511827"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90032",
+            "icName": "송파IC",
+            "xValue": "127.129877",
+            "yValue": "37.474394"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90033",
+            "icName": "토평IC",
+            "xValue": "127.158009",
+            "yValue": "37.583731"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90034",
+            "icName": "구리IC",
+            "xValue": "127.143447",
+            "yValue": "37.614695"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000I90035",
+            "icName": "남양주IC",
+            "xValue": "127.154776",
+            "yValue": "37.601340"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1000J90029",
+            "icName": "도리분기점JCT",
+            "xValue": "126.849803",
+            "yValue": "37.395742"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00002",
+            "icName": "성남IC",
+            "xValue": "127.124254",
+            "yValue": "37.428126"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00003",
+            "icName": "송파IC",
+            "xValue": "127.128098",
+            "yValue": "37.475024"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00004",
+            "icName": "서하남IC",
+            "xValue": "127.151569",
+            "yValue": "37.512340"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00006",
+            "icName": "상일IC",
+            "xValue": "127.179490",
+            "yValue": "37.548870"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00007",
+            "icName": "강일IC",
+            "xValue": "127.165140",
+            "yValue": "37.573340"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00008",
+            "icName": "토평IC",
+            "xValue": "127.156960",
+            "yValue": "37.583830"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00009",
+            "icName": "남양주IC",
+            "xValue": "127.153860",
+            "yValue": "37.601079"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00010",
+            "icName": "구리IC",
+            "xValue": "127.141670",
+            "yValue": "37.615390"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001I00011",
+            "icName": "퇴계원IC",
+            "xValue": "127.134744",
+            "yValue": "37.640141"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001J00001",
+            "icName": "판교JCT",
+            "xValue": "127.097409",
+            "yValue": "37.405130"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1001J00005",
+            "icName": "하남JCT",
+            "xValue": "127.195770",
+            "yValue": "37.532000"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00013",
+            "icName": "평촌IC",
+            "xValue": "126.965242",
+            "yValue": "37.382313"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00014",
+            "icName": "산본IC",
+            "xValue": "126.930865",
+            "yValue": "37.377091"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00017",
+            "icName": "시흥IC",
+            "xValue": "126.799490",
+            "yValue": "37.455728"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00018",
+            "icName": "장수IC",
+            "xValue": "126.755651",
+            "yValue": "37.465497"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00019",
+            "icName": "송내IC",
+            "xValue": "126.747678",
+            "yValue": "37.488217"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00020",
+            "icName": "중동IC",
+            "xValue": "126.748989",
+            "yValue": "37.507369"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00022",
+            "icName": "계양IC",
+            "xValue": "126.750500",
+            "yValue": "37.545429"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00024",
+            "icName": "김포IC",
+            "xValue": "126.778369",
+            "yValue": "37.597069"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00025",
+            "icName": "자유로IC",
+            "xValue": "126.801858",
+            "yValue": "37.618172"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003I00026",
+            "icName": "일산IC",
+            "xValue": "126.805909",
+            "yValue": "37.636223"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003J00012",
+            "icName": "학의JCT",
+            "xValue": "127.002246",
+            "yValue": "37.386199"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003J00015",
+            "icName": "조남JCT",
+            "xValue": "126.868980",
+            "yValue": "37.368790"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003J00016",
+            "icName": "안현JCT",
+            "xValue": "126.819273",
+            "yValue": "37.436724"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003J00021",
+            "icName": "서운JCT",
+            "xValue": "126.756453",
+            "yValue": "37.527571"
+        },
+        {
+            "routeName": "수도권제1순환선",
+            "routeNo": "1000",
+            "icCode": "1003J00023",
+            "icName": "노오지JCT",
+            "xValue": "126.754246",
+            "yValue": "37.571252"
+        },
+        {
+            "routeName": "남해1지선",
+            "routeNo": "1020",
+            "icCode": "0100I00022",
+            "icName": "서마산IC",
+            "xValue": "128.562070",
+            "yValue": "35.235080"
+        },
+        {
+            "routeName": "남해1지선",
+            "routeNo": "1020",
+            "icCode": "0100I00023",
+            "icName": "동마산IC",
+            "xValue": "128.596884",
+            "yValue": "35.251132"
+        },
+        {
+            "routeName": "남해1지선",
+            "routeNo": "1020",
+            "icCode": "1020I90005",
+            "icName": "서마산IC",
+            "xValue": "128.563640",
+            "yValue": "35.234966"
+        },
+        {
+            "routeName": "남해1지선",
+            "routeNo": "1020",
+            "icCode": "1020J00001",
+            "icName": "산인JCT",
+            "xValue": "128.477507",
+            "yValue": "35.272769"
+        },
+        {
+            "routeName": "남해1지선",
+            "routeNo": "1020",
+            "icCode": "1020J00004",
+            "icName": "창원JCT",
+            "xValue": "128.641812",
+            "yValue": "35.275780"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00002",
+            "icName": "장유IC",
+            "xValue": "128.809130",
+            "yValue": "35.198170"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00003",
+            "icName": "가락IC",
+            "xValue": "128.894140",
+            "yValue": "35.168360"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00004",
+            "icName": "서부산IC",
+            "xValue": "128.950600",
+            "yValue": "35.155450"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00005",
+            "icName": "가락IC",
+            "xValue": "128.893979",
+            "yValue": "35.164480"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00006",
+            "icName": "서부산ICIC",
+            "xValue": "128.951401",
+            "yValue": "35.154669"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040I00007",
+            "icName": "장유IC",
+            "xValue": "128.810968",
+            "yValue": "35.197427"
+        },
+        {
+            "routeName": "남해2지선",
+            "routeNo": "1040",
+            "icCode": "1040J00001",
+            "icName": "냉정JCT",
+            "xValue": "128.793129",
+            "yValue": "35.219500"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200I00001",
+            "icName": "도화IC",
+            "xValue": "126.672625",
+            "yValue": "37.462061"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200I00002",
+            "icName": "가좌IC",
+            "xValue": "126.675401",
+            "yValue": "37.484929"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200I00003",
+            "icName": "서인천IC",
+            "xValue": "126.681272",
+            "yValue": "37.520857"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200I00004",
+            "icName": "부평IC",
+            "xValue": "126.722980",
+            "yValue": "37.524491"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200I00006",
+            "icName": "부천IC",
+            "xValue": "126.778256",
+            "yValue": "37.524907"
+        },
+        {
+            "routeName": "경인선",
+            "routeNo": "1200",
+            "icCode": "1200J00005",
+            "icName": "서운JCT",
+            "xValue": "126.757400",
+            "yValue": "37.524110"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170I00003",
+            "icName": "부여IC",
+            "xValue": "126.854360",
+            "yValue": "36.298451"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170I00009",
+            "icName": "서공주ICIC",
+            "xValue": "127.060761",
+            "yValue": "36.456092"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170I00010",
+            "icName": "청양IC",
+            "xValue": "126.953350",
+            "yValue": "36.374410"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170I00011",
+            "icName": "서부여IC",
+            "xValue": "126.791342",
+            "yValue": "36.240238"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170I00012",
+            "icName": "동서천IC",
+            "xValue": "126.783559",
+            "yValue": "36.043655"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170J00008",
+            "icName": "서공주JCT",
+            "xValue": "127.064059",
+            "yValue": "36.484395"
+        },
+        {
+            "routeName": "서천공주선",
+            "routeNo": "1510",
+            "icCode": "0170J00013",
+            "icName": "동서천JCTJCT",
+            "xValue": "126.774982",
+            "yValue": "36.060117"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "0350J00015",
+            "icName": "서대전JCT",
+            "xValue": "127.316842",
+            "yValue": "36.295179"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510I00001",
+            "icName": "논산IC",
+            "xValue": "127.134867",
+            "yValue": "36.121308"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510I00002",
+            "icName": "계룡IC",
+            "xValue": "127.281775",
+            "yValue": "36.251790"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510I00004",
+            "icName": "유성IC",
+            "xValue": "127.332729",
+            "yValue": "36.363582"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510I00005",
+            "icName": "북대전IC",
+            "xValue": "127.381929",
+            "yValue": "36.412675"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510I90007",
+            "icName": "양촌IC",
+            "xValue": "127.218341",
+            "yValue": "36.158575"
+        },
+        {
+            "routeName": "호남지선",
+            "routeNo": "2510",
+            "icCode": "2510J00006",
+            "icName": "논산JCT",
+            "xValue": "127.103715",
+            "yValue": "36.081785"
+        },
+        {
+            "routeName": "대전남부선",
+            "routeNo": "3000",
+            "icCode": "3000I00002",
+            "icName": "서대전IC",
+            "xValue": "127.327420",
+            "yValue": "36.291709"
+        },
+        {
+            "routeName": "대전남부선",
+            "routeNo": "3000",
+            "icCode": "3000I00003",
+            "icName": "안영IC",
+            "xValue": "127.379291",
+            "yValue": "36.284701"
+        },
+        {
+            "routeName": "대전남부선",
+            "routeNo": "3000",
+            "icCode": "3000I00128",
+            "icName": "서대전IC",
+            "xValue": "127.329733",
+            "yValue": "36.292944"
+        },
+        {
+            "routeName": "대전남부선",
+            "routeNo": "3000",
+            "icCode": "3000J00004",
+            "icName": "산내JCT",
+            "xValue": "127.448620",
+            "yValue": "36.282070"
+        },
+        {
+            "routeName": "대전남부선",
+            "routeNo": "3000",
+            "icCode": "3000J90005",
+            "icName": "산내JCT",
+            "xValue": "127.453230",
+            "yValue": "36.282052"
+        },
+        {
+            "routeName": "봉담동탄선",
+            "routeNo": "4000",
+            "icCode": "4000I00004",
+            "icName": "북오산IC",
+            "xValue": "127.059048",
+            "yValue": "37.182843"
+        },
+        {
+            "routeName": "봉담동탄선",
+            "routeNo": "4000",
+            "icCode": "4000J00003",
+            "icName": "동탄JCT",
+            "xValue": "127.098181",
+            "yValue": "37.178225"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00001",
+            "icName": "현풍IC",
+            "xValue": "128.440289",
+            "yValue": "35.672377"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00002",
+            "icName": "달성IC",
+            "xValue": "128.475923",
+            "yValue": "35.768287"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00005",
+            "icName": "남대구IC",
+            "xValue": "128.528911",
+            "yValue": "35.837951"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00006",
+            "icName": "성서IC",
+            "xValue": "128.523674",
+            "yValue": "35.850379"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00007",
+            "icName": "서대구IC",
+            "xValue": "128.532898",
+            "yValue": "35.876976"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I00009",
+            "icName": "화원IC",
+            "xValue": "128.480078",
+            "yValue": "35.801333"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I90007",
+            "icName": "북현풍 하이패스IC",
+            "xValue": "128.436309",
+            "yValue": "35.703720"
+        },
+        {
+            "routeName": "중부내륙지선",
+            "routeNo": "4510",
+            "icCode": "4510I90008",
+            "icName": "유천IC",
+            "xValue": "128.505676",
+            "yValue": "35.813980"
+        },
+        {
+            "routeName": "광주외곽순환선",
+            "routeNo": "5000",
+            "icCode": "5000I90001",
+            "icName": "남광산나들목IC",
+            "xValue": "126.797976",
+            "yValue": "35.259769"
+        },
+        {
+            "routeName": "광주외곽순환선",
+            "routeNo": "5000",
+            "icCode": "5000I90003",
+            "icName": "남장성나들목IC",
+            "xValue": "126.791861",
+            "yValue": "35.225736"
+        },
+        {
+            "routeName": "광주외곽순환선",
+            "routeNo": "5000",
+            "icCode": "5000J90002",
+            "icName": "남장성분기점JCT",
+            "xValue": "126.746154",
+            "yValue": "35.182058"
+        },
+        {
+            "routeName": "중앙선지선",
+            "routeNo": "5510",
+            "icCode": "5510I00001",
+            "icName": "물금IC",
+            "xValue": "129.012692",
+            "yValue": "35.307105"
+        },
+        {
+            "routeName": "중앙선지선",
+            "routeNo": "5510",
+            "icCode": "5510I00002",
+            "icName": "남양산IC",
+            "xValue": "129.027782",
+            "yValue": "35.325967"
+        },
+        {
+            "routeName": "중앙선지선",
+            "routeNo": "5510",
+            "icCode": "5510I00003",
+            "icName": "삼락IC",
+            "xValue": "128.983472",
+            "yValue": "35.193304"
+        },
+        {
+            "routeName": "중앙선지선",
+            "routeNo": "5510",
+            "icCode": "5510J00104",
+            "icName": "김해JCT",
+            "xValue": "128.919997",
+            "yValue": "35.224933"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90001",
+            "icName": "광재IC",
+            "xValue": "128.896381",
+            "yValue": "35.306007"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90002",
+            "icName": "금정IC",
+            "xValue": "129.113324",
+            "yValue": "35.284043"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90004",
+            "icName": "기장철마IC",
+            "xValue": "129.152482",
+            "yValue": "35.285016"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90005",
+            "icName": "김해가야하이패스IC",
+            "xValue": "129.002445",
+            "yValue": "35.268353"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90006",
+            "icName": "김해금관가야IC",
+            "xValue": "129.002479",
+            "yValue": "35.270519"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90008",
+            "icName": "진영IC",
+            "xValue": "128.768489",
+            "yValue": "35.299178"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000I90010",
+            "icName": "한림IC",
+            "xValue": "128.811787",
+            "yValue": "35.295885"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000J90003",
+            "icName": "기장JCT",
+            "xValue": "129.222103",
+            "yValue": "35.282105"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000J90007",
+            "icName": "대감JCT",
+            "xValue": "128.985138",
+            "yValue": "35.271282"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000J90009",
+            "icName": "진영JCT",
+            "xValue": "128.721242",
+            "yValue": "35.280259"
+        },
+        {
+            "routeName": "부산외곽선",
+            "routeNo": "6000",
+            "icCode": "6000J90011",
+            "icName": "노포JCT",
+            "xValue": "129.094741",
+            "yValue": "35.291384"
+        }
+    ],
+    "message": "인증키가 유효합니다.",
+    "code": "SUCCESS"
+}
