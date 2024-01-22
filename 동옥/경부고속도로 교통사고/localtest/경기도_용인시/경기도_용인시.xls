@@ -1,0 +1,4302 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="40px;" />
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			
+			
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010200100040</td>
+					<td>2022년  1월  2일 09시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010200100107</td>
+					<td>2022년  1월  2일 13시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 수지구 동천동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010500100065</td>
+					<td>2022년  1월  5일 08시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010600100078</td>
+					<td>2022년  1월  6일 08시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010700100530</td>
+					<td>2022년  1월  7일 20시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022010900100338</td>
+					<td>2022년  1월  9일 23시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022011100100147</td>
+					<td>2022년  1월 11일 10시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022011300100047</td>
+					<td>2022년  1월 13일 07시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022011400100327</td>
+					<td>2022년  1월 14일 15시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022011500100079</td>
+					<td>2022년  1월 15일 09시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012000100151</td>
+					<td>2022년  1월 20일 11시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012000100348</td>
+					<td>2022년  1월 20일 17시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>부상신고</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012100100256</td>
+					<td>2022년  1월 21일 12시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012300100028</td>
+					<td>2022년  1월 23일 06시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 전도전복 - 전도</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012300100149</td>
+					<td>2022년  1월 23일 14시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012500100073</td>
+					<td>2022년  1월 25일 08시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022012500100540</td>
+					<td>2022년  1월 25일 22시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022020600100152</td>
+					<td>2022년  2월  6일 16시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022020800100266</td>
+					<td>2022년  2월  8일 15시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021100100257</td>
+					<td>2022년  2월 11일 15시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 하갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021100100451</td>
+					<td>2022년  2월 11일 20시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021200100013</td>
+					<td>2022년  2월 12일 01시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 서리/결빙</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021500100009</td>
+					<td>2022년  2월 15일 04시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>미분류</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021500100139</td>
+					<td>2022년  2월 15일 12시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021600100036</td>
+					<td>2022년  2월 16일 07시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022021800100222</td>
+					<td>2022년  2월 18일 13시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>2</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>49세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022022500100029</td>
+					<td>2022년  2월 25일 06시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022022600100386</td>
+					<td>2022년  2월 26일 19시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022022600100450</td>
+					<td>2022년  2월 26일 21시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>부상신고</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022030100100293</td>
+					<td>2022년  3월  1일 19시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022030600100138</td>
+					<td>2022년  3월  6일 14시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022030700100014</td>
+					<td>2022년  3월  7일 04시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 수지구 풍덕천동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022032000100060</td>
+					<td>2022년  3월 20일 11시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>20세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022032500100042</td>
+					<td>2022년  3월 25일 07시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022032500100493</td>
+					<td>2022년  3월 25일 21시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022040100100151</td>
+					<td>2022년  4월  1일 11시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022040400100094</td>
+					<td>2022년  4월  4일 08시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022040400100483</td>
+					<td>2022년  4월  4일 20시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022041100100201</td>
+					<td>2022년  4월 11일 11시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022041100100265</td>
+					<td>2022년  4월 11일 13시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>차대차 - 측면충돌</td>
+					<td>신호위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022041200100305</td>
+					<td>2022년  4월 12일 15시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022041500100613</td>
+					<td>2022년  4월 15일 22시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042100100125</td>
+					<td>2022년  4월 21일 09시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042100100559</td>
+					<td>2022년  4월 21일 23시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042400100415</td>
+					<td>2022년  4월 24일 21시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042600100113</td>
+					<td>2022년  4월 26일 08시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022042600100439</td>
+					<td>2022년  4월 26일 18시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>75세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022050100100219</td>
+					<td>2022년  5월  1일 14시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022050400100298</td>
+					<td>2022년  5월  4일 12시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>27세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022050400100544</td>
+					<td>2022년  5월  4일 18시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022050900100094</td>
+					<td>2022년  5월  9일 08시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022051200100172</td>
+					<td>2022년  5월 12일 10시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022051700100474</td>
+					<td>2022년  5월 17일 18시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022052300100013</td>
+					<td>2022년  5월 23일 01시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022052400100345</td>
+					<td>2022년  5월 24일 15시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022052800100234</td>
+					<td>2022년  5월 28일 12시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022060200100208</td>
+					<td>2022년  6월  2일 12시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022061100100307</td>
+					<td>2022년  6월 11일 14시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022061100100530</td>
+					<td>2022년  6월 11일 21시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 영덕동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022061500100187</td>
+					<td>2022년  6월 15일 11시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>81세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022062300100392</td>
+					<td>2022년  6월 23일 17시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022062600100010</td>
+					<td>2022년  6월 26일 00시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022062600100403</td>
+					<td>2022년  6월 26일 23시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022062900100327</td>
+					<td>2022년  6월 29일 15시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 영덕동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022063000100093</td>
+					<td>2022년  6월 30일 07시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022063000100162</td>
+					<td>2022년  6월 30일 09시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022063000100254</td>
+					<td>2022년  6월 30일 13시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>70세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070500100060</td>
+					<td>2022년  7월  5일 07시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>기타불명</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070500100138</td>
+					<td>2022년  7월  5일 09시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>13</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070600100061</td>
+					<td>2022년  7월  6일 07시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070700100073</td>
+					<td>2022년  7월  7일 07시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070700100620</td>
+					<td>2022년  7월  7일 23시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 고가도로위</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070800100018</td>
+					<td>2022년  7월  8일 01시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022070800100463</td>
+					<td>2022년  7월  8일 18시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071100100035</td>
+					<td>2022년  7월 11일 06시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071300100173</td>
+					<td>2022년  7월 13일 11시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071300100289</td>
+					<td>2022년  7월 13일 15시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071300100326</td>
+					<td>2022년  7월 13일 16시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>부상신고</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071400100433</td>
+					<td>2022년  7월 14일 17시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022071700100233</td>
+					<td>2022년  7월 17일 15시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>20</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022072800100571</td>
+					<td>2022년  7월 28일 21시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022072900100551</td>
+					<td>2022년  7월 29일 20시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022073000100208</td>
+					<td>2022년  7월 30일 12시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022073000100514</td>
+					<td>2022년  7월 30일 21시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022073100100240</td>
+					<td>2022년  7월 31일 15시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022073100100409</td>
+					<td>2022년  7월 31일 21시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>19</td>
+					<td>2</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022080200100371</td>
+					<td>2022년  8월  2일 17시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022080800100075</td>
+					<td>2022년  8월  8일 08시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>63세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022080900100040</td>
+					<td>2022년  8월  9일 06시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>차로위반</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022081000100155</td>
+					<td>2022년  8월 10일 11시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>71세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022081100100431</td>
+					<td>2022년  8월 11일 20시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022081600100317</td>
+					<td>2022년  8월 16일 15시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022082600100327</td>
+					<td>2022년  8월 26일 15시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022082600100523</td>
+					<td>2022년  8월 26일 19시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>25세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022082800100378</td>
+					<td>2022년  8월 28일 18시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>48세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022083000100025</td>
+					<td>2022년  8월 30일 02시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022083000100328</td>
+					<td>2022년  8월 30일 15시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022083100100098</td>
+					<td>2022년  8월 31일 08시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022083100100511</td>
+					<td>2022년  8월 31일 21시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022090100100569</td>
+					<td>2022년  9월  1일 20시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022090500100100</td>
+					<td>2022년  9월  5일 08시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022090500100176</td>
+					<td>2022년  9월  5일 10시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022091300100047</td>
+					<td>2022년  9월 13일 07시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022091400100012</td>
+					<td>2022년  9월 14일 02시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>21세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022091700100167</td>
+					<td>2022년  9월 17일 10시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022091800100344</td>
+					<td>2022년  9월 18일 19시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022092300100270</td>
+					<td>2022년  9월 23일 13시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022092400100071</td>
+					<td>2022년  9월 24일 07시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>11</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>76세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022092900100204</td>
+					<td>2022년  9월 29일 11시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022100900100396</td>
+					<td>2022년 10월  9일 19시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022101200100221</td>
+					<td>2022년 10월 12일 11시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 보정동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>9</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022101500100159</td>
+					<td>2022년 10월 15일 11시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>21세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022101800100054</td>
+					<td>2022년 10월 18일 07시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022102000100574</td>
+					<td>2022년 10월 20일 19시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022102200100165</td>
+					<td>2022년 10월 22일 10시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022102300100306</td>
+					<td>2022년 10월 23일 17시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022102300100371</td>
+					<td>2022년 10월 23일 19시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022102800100679</td>
+					<td>2022년 10월 28일 20시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 처인구 양지면</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>75세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022103100100164</td>
+					<td>2022년 10월 31일 10시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022103100100190</td>
+					<td>2022년 10월 31일 11시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 지하차도(도로)내</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022110300100005</td>
+					<td>2022년 11월  3일 00시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>특수</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022110400100158</td>
+					<td>2022년 11월  4일 09시</td>
+					<td>금요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022111000100535</td>
+					<td>2022년 11월 10일 19시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022111200100294</td>
+					<td>2022년 11월 12일 14시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022111300100270</td>
+					<td>2022년 11월 13일 16시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>기타불명</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112000100233</td>
+					<td>2022년 11월 20일 15시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112400100225</td>
+					<td>2022년 11월 24일 12시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 수지구 풍덕천동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112600100409</td>
+					<td>2022년 11월 26일 18시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112600100479</td>
+					<td>2022년 11월 26일 20시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112700100360</td>
+					<td>2022년 11월 27일 19시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022112800100089</td>
+					<td>2022년 11월 28일 08시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 보라동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022113000100223</td>
+					<td>2022년 11월 30일 13시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120300100539</td>
+					<td>2022년 12월  3일 22시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 고매동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120400100301</td>
+					<td>2022년 12월  4일 18시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>19세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120400100302</td>
+					<td>2022년 12월  4일 18시</td>
+					<td>일요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>22</td>
+					<td>21</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>74세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120500100027</td>
+					<td>2022년 12월  5일 06시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120600100104</td>
+					<td>2022년 12월  6일 08시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>9</td>
+					<td>38</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>눈</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>69세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120600100166</td>
+					<td>2022년 12월  6일 09시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 수지구 죽전동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>78세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022120800100033</td>
+					<td>2022년 12월  8일 03시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 마북동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>중상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022121300100005</td>
+					<td>2022년 12월 13일 00시</td>
+					<td>화요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td> 젖음/습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>24세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022121700100058</td>
+					<td>2022년 12월 17일 05시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 공세동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>64세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022122200100259</td>
+					<td>2022년 12월 22일 14시</td>
+					<td>목요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022122600100186</td>
+					<td>2022년 12월 26일 11시</td>
+					<td>월요일</td>
+					<td>경기도 용인시 처인구 남사읍</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면충돌</td>
+					<td>안전운전불이행</td>
+					<td> 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022122800100497</td>
+					<td>2022년 12월 28일 19시</td>
+					<td>수요일</td>
+					<td>경기도 용인시 기흥구 신갈동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+				
+				
+					<td class="format-text-excel">2022123100100323</td>
+					<td>2022년 12월 31일 16시</td>
+					<td>토요일</td>
+					<td>경기도 용인시 기흥구 상갈동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td> 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
